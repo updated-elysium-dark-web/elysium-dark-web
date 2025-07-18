@@ -77,4 +77,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 *Note: This guide is for educational purposes only regarding network technologies.*
 
-Update:  14.07.2025 03:55:55 Corrected broken integration guide links
+
+
+Update:  18.07.2025 Fixed broken url, now live and functioning
