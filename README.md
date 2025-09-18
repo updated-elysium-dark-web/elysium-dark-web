@@ -95,4 +95,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  09/12/2025 The link is responsive and live again.
+
+
+Update:  09/18/2025 Internal navigation
