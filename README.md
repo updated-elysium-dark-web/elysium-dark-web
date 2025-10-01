@@ -97,4 +97,6 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 
 
-Update:  09/18/2025 Internal navigation
+
+
+Update:  01 October url is back up
