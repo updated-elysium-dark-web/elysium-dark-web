@@ -4,11 +4,11 @@ Discover everything about **Elysium dark web** - the most secure and private und
 
 ## 🔗 Official Elysium Dark Web Portals
 
-http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
+http://&#54;&#101;&#107;%6C%74%62%34%72&#114;&#55;&#98;%72&#50;&#103;&#106;&#113;&#105;&#120;%6A&#119;%69%79%6D&#119;&#118;%67&#55;%6D&#109;%68%66%37%65&#116;%37%36&#50;%32&#118;%74&#111;%32&#102;&#54;%6F%69%6A%64&#54;%36&#101;%6E&#99;&#119;&#113;%64%2E&#111;%6E&#105;&#111;&#110;
 
-[<img src="/assets/recent.webp" width="300" alt="Elysium dark web official gateway">](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
+[<img src="/screenshots/read.webp" width="300" alt="Elysium dark web official gateway">](http://&#54;&#101;&#107;%6C%74%62%34%72&#114;&#55;&#98;%72&#50;&#103;&#106;&#113;&#105;&#120;%6A&#119;%69%79%6D&#119;&#118;%67&#55;%6D&#109;%68%66%37%65&#116;%37%36&#50;%32&#118;%74&#111;%32&#102;&#54;%6F%69%6A%64&#54;%36&#101;%6E&#99;&#119;&#113;%64%2E&#111;%6E&#105;&#111;&#110;)
 
-<a href="http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion"><img src="/assets/bottom.webp" alt="Elysium dark web interface" style="max-width: 100%;"></a>
+<a href="http://&#54;&#101;&#107;%6C%74%62%34%72&#114;&#55;&#98;%72&#50;&#103;&#106;&#113;&#105;&#120;%6A&#119;%69%79%6D&#119;&#118;%67&#55;%6D&#109;%68%66%37%65&#116;%37%36&#50;%32&#118;%74&#111;%32&#102;&#54;%6F%69%6A%64&#54;%36&#101;%6E&#99;&#119;&#113;%64%2E&#111;%6E&#105;&#111;&#110;"><img src="/screenshots/halt.webp" alt="Elysium dark web interface" style="max-width: 100%;"></a>
 
 ## 🌐 Elysium Dark Web Ecosystem
 
@@ -34,10 +34,10 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 ### Step-by-Step Guide:
 - Connect through Tor bridges
-- Access primary gateway: http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
+- Access primary gateway: http://&#54;&#101;&#107;%6C%74%62%34%72&#114;&#55;&#98;%72&#50;&#103;&#106;&#113;&#105;&#120;%6A&#119;%69%79%6D&#119;&#118;%67&#55;%6D&#109;%68%66%37%65&#116;%37%36&#50;%32&#118;%74&#111;%32&#102;&#54;%6F%69%6A%64&#54;%36&#101;%6E&#99;&#119;&#113;%64%2E&#111;%6E&#105;&#111;&#110;
 - Create anonymous identity
 
-<a href="http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion"><img src="/assets/gamma.webp" alt="Elysium dark web login portal" style="max-width: 100%;"></a>
+<a href="http://&#54;&#101;&#107;%6C%74%62%34%72&#114;&#55;&#98;%72&#50;&#103;&#106;&#113;&#105;&#120;%6A&#119;%69%79%6D&#119;&#118;%67&#55;%6D&#109;%68%66%37%65&#116;%37%36&#50;%32&#118;%74&#111;%32&#102;&#54;%6F%69%6A%64&#54;%36&#101;%6E&#99;&#119;&#113;%64%2E&#111;%6E&#105;&#111;&#110;"><img src="/screenshots/about.webp" alt="Elysium dark web login portal" style="max-width: 100%;"></a>
 
 ## ⚠️ Critical Security Alerts
 
@@ -76,27 +76,3 @@ http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 ---
 
 *Note: This guide is for educational purposes only regarding network technologies.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Update:  01 October url is back up
